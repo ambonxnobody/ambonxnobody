@@ -52,7 +52,7 @@ An Indonesian <b>self-taughted</b> FullStack web developer.
 <br />
 
 <p align="center">
-  <b>NOTE</b>: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most <i><b>public</b></i> code on Github
+  <b>NOTE</b>: Languages and tool above does not indicate my skill level or something like that, it's just that I've ever done some project or training
 </p>
 
 <br />

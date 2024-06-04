@@ -5,7 +5,7 @@ An Indonesian <b>self-taughted</b> FullStack web developer.
 
 - 👨‍🎓 diploma's degree in computer science
 - 👨‍💻 I’m currently learning **Expo/React Native**.
-- ✨ Check out my [https://ambonxnobody.vercel.app/](https://ambonxnobody.vercel.app/)
+- ✨ Check out my [Portfolio](https://ambonxnobody.vercel.app/)
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mahendradwipurwanto&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <br />
